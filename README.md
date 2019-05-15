@@ -22,4 +22,4 @@
 01) https://github.com/Kioryu/Eth-CA-List
 
 # Fabric
-00) https://github.com/Kioryu/fabric-samples
+00) https://github.com/Kioryu/fabric-samples/tree/release-1.4/Fab-Ice
