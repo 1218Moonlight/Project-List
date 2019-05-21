@@ -23,3 +23,6 @@
 
 # Fabric
 00) https://github.com/Kioryu/fabric-samples/tree/release-1.4/Fab-Ice
+
+# Wallet
+00) https://github.com/Kioryu/Ethe-Wallet
