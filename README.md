@@ -23,7 +23,7 @@
 
 # Fabric
 00) https://github.com/Kioryu/fabric-samples/tree/release-1.4/Fab-Ice
-01) https://github.com/Kioryu/fabric-samples/tree/release-1.4/Fab-Bank
+01) https://github.com/Kioryu/fabric-samples/tree/release-1.4/Fab-Bank (CC : https://github.com/Kioryu/fabric-samples/blob/release-1.4/chaincode/Fab-Bank/fabbank.go)
 
 # Wallet
 00) https://github.com/Kioryu/Ethe-Wallet
