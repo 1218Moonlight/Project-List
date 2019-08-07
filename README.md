@@ -32,3 +32,55 @@ ElectrumX
 > * Golang으로 Window에서 Electrumx 정보를 확인할 수 있는 Dashboard를 개발합니다.
 > * Golangを利用してWindowでElectrumxの情報を確認することができるDashboardを開発します。
 > * *SERVER* - [ElectrumX-RPC-Laravel](https://github.com/Kioryu/ElectrumX-RPC-Laravel)
+
+Etc-Project-List
+=============
+
+
+[Electrum-Dash-APK](https://github.com/Kioryu/Electrum-Dash-APK) - *Shell*
+
+
+
+Tensorflow
+-------------
+1. [Translator](https://github.com/Kioryu/Translator) - *Python*
+> * North East India의 Simte 언어를 한글로 번역.
+> * North East IndiaのSimte言語を韓国語に翻訳。
+
+React
+-------------
+1. [Korean-Collections](https://github.com/Kioryu/Korean-Collections) - *React*
+> * https://kr-goods.shop/
+
+ElectrumX
+-------------
+1. [ElectrumX-RPC-Laravel](https://github.com/Kioryu/ElectrumX-RPC-Laravel) - *PHP*
+> * [Electrumx-Dashboard](https://github.com/Kioryu/Electrumx-Dashboard)에게 ElectrumX정보를 전달하는 API서버 역할을 수행. 
+> * [Electrumx-Dashboard](https://github.com/Kioryu/Electrumx-Dashboard)にElectrumX情報を伝えるAPI-SERVERの役割を遂行。
+
+2. [ElectrumX_Compact_History_Service](https://github.com/Kioryu/ElectrumX_Compact_History_Service) - *Python*
+> * ElectrumX는 DB Flush를 할때 uint16(0~65535) 크기를 넘으면 Flush를 하지 않습니다. 이에 DB를 압축해줘야 하는데 이를 자동으로 모니터링하여 압축을 수행해 줍니다.
+> * ElectrumXはDB Flushする時にuint16(0~65535）のサイズを超えるとFlushをしません。なので、DBを圧縮する必要があります。このコードは自動的にモニタリングし、圧縮をします。
+
+Android
+-------------
+1. [My-History](https://github.com/Kioryu/My-History) - *JAVA*
+> * 개인정보 및 개인 이력을 관리하는 Android App 개발을 목표로 합니다.
+> * 個人情報や履歴を管理する”Android App”開発を目標とします。
+
+Explorer
+-------------
+1. [explorer](https://github.com/Kioryu/explorer) - *JavaScript*
+> * [sthnaqvi/explorer](https://github.com/sthnaqvi/explorer)를 Docker화 합니다.
+> * [sthnaqvi/explorer](https://github.com/sthnaqvi/explorer)をDocker化します。
+
+RPG MAKER
+-------------
+1. [RPG-MAKER-MV-PLUGIN](https://github.com/Kioryu/RPG-MAKER-MV-PLUGIN) - *JavaScript*
+
+Vm
+-------------
+1. [coo-and-gurgle](https://github.com/Kioryu/coo-and-gurgle) - *Python*
+> * 간단한 언어 개발. 
+> * 簡単な言語の開発。
+
