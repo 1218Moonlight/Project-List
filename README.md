@@ -1,7 +1,9 @@
 developing
 =============
 
-[Electrum-Dash-APK](https://github.com/Kioryu/Electrum-Dash-APK) - *Shell Script*
+[Electrum-Dash-APK-Builder](https://github.com/Kioryu/Electrum-Dash-APK-Builder) - *Shell Script*
+> * Electrum-Dash 소스를 APK로 Build하는 Shell Script
+> * Electrum-DashのソースコードをAPKにBuildするShell Script
 
 [Korean-Collections](https://github.com/Kioryu/Korean-Collections) - *React*
 > * https://kr-goods.shop/
