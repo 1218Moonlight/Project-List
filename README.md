@@ -4,8 +4,9 @@ developing
 [Korean-Collections](https://github.com/Kioryu/Korean-Collections) - *React*, *Javascript*
 > * https://kr-goods.shop/
 
-[Chrome-Ethe-Wallet](https://github.com/Kioryu/Chrome-Ethe-Wallet) - *javascript*
-> * Chrome Extension
+[Translator](https://github.com/Kioryu/Translator) - *Python*
+> * North East India의 Simte 언어를 한글로 번역.
+> * North East IndiaのSimte言語を韓国語に翻訳。
 
 BlockChain
 =============
@@ -63,14 +64,18 @@ Electrum && ElectrumX
 
 Tensorflow
 -------------
-1. [Translator](https://github.com/Kioryu/Translator) - *Python*
-> * North East India의 Simte 언어를 한글로 번역.
-> * North East IndiaのSimte言語を韓国語に翻訳。
+1. 
 
 Utils
 -------------
 1. [Web-Utils](https://github.com/Kioryu/Web-Utils) - *Vue*, *Javascript*
 2. [Go-Utils](https://github.com/Kioryu/Go-Utils) - *Go*
+
+Chrome Extension
+-
+[Chrome-Ethe-Wallet](https://github.com/Kioryu/Chrome-Ethe-Wallet) - *javascript*
+> * 간단한 Chrome Ethe Wallet 개발
+> * 簡単なChrome Ethe Walletを開発
 
 Android
 -------------
