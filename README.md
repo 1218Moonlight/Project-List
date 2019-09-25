@@ -4,6 +4,10 @@ developing
 [Korean-Collections](https://github.com/Kioryu/Korean-Collections) - *React*, *Javascript*
 > * https://kr-goods.shop/
 
+[Web-Utils](https://github.com/Kioryu/Web-Utils) - *Vue*, *Javascript*
+> * 현재 이미지관련 유틸 작업중..
+> * 現在イメージ関連のUtilsを作業中。
+
 BlockChain
 =============
 
@@ -66,8 +70,7 @@ Tensorflow
 
 Utils
 -------------
-1. [Web-Utils](https://github.com/Kioryu/Web-Utils) - *Vue*, *Javascript*
-2. [Go-Utils](https://github.com/Kioryu/Go-Utils) - *Go*
+1. [Go-Utils](https://github.com/Kioryu/Go-Utils) - *Go*
 
 Chrome Extension
 -
