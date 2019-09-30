@@ -1,12 +1,14 @@
 developing
 =============
+[Chrome-Ethe-Wallet](https://github.com/Kioryu/Chrome-Ethe-Wallet) - *javascript*
+> * 간단한 Chrome Ethe Wallet 개발
+> * 簡単なChrome Ethe Walletを開発
 
 [Korean-Collections](https://github.com/Kioryu/Korean-Collections) - *React*, *Javascript*
 > * https://kr-goods.shop/
 
-[Web-Utils](https://github.com/Kioryu/Web-Utils) - *Vue*, *Javascript*
-> * 현재 이미지관련 유틸 작업중..
-> * 現在イメージ関連のUtilsを作業中。
+
+
 
 BlockChain
 =============
@@ -35,7 +37,6 @@ Ethereum
 > * [sthnaqvi/explorer](https://github.com/sthnaqvi/explorer)를 Docker화 합니다.
 > * [sthnaqvi/explorer](https://github.com/sthnaqvi/explorer)をDocker化します。
 
-
 Fabric
 -------------
 1. [Fab-Ice](https://github.com/Kioryu/fabric-samples/tree/release-1.4/Fab-Ice) ([CC](https://github.com/Kioryu/fabric-samples/blob/release-1.4/chaincode/Fab-Ice/fabice.go)) - *Go*
@@ -45,7 +46,6 @@ Fabric
 2. [Fab-Bank](https://github.com/Kioryu/fabric-samples/tree/release-1.4/Fab-Bank) ([CC](https://github.com/Kioryu/fabric-samples/blob/release-1.4/chaincode/Fab-Bank/fabbank.go)) - *Go*
 > * 조직과 채널 그리고 CA-Server을 사용, 간단한 은행업무가 가능한 Fabric 네트워크를 구축합니다.
 > * 組織とチャンネル、そしてCA-SERVERを利用し、簡単な銀行の業務が可能なFabricネットワークを作ります。
-
 
 Electrum && ElectrumX
 -------------
@@ -72,11 +72,9 @@ Utils
 -------------
 1. [Go-Utils](https://github.com/Kioryu/Go-Utils) - *Go*
 
-Chrome Extension
--
-[Chrome-Ethe-Wallet](https://github.com/Kioryu/Chrome-Ethe-Wallet) - *javascript*
-> * 간단한 Chrome Ethe Wallet 개발
-> * 簡単なChrome Ethe Walletを開発
+2. 2. [Web-Utils](https://github.com/Kioryu/Web-Utils) - *Vue*, *Javascript*
+> * 현재 이미지관련 유틸 작업중..
+> * 現在イメージ関連のUtilsを作業中。
 
 Android
 -------------
