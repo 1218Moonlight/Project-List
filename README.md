@@ -1,6 +1,6 @@
 developing
 =============
-[Chrome-Ethe-Wallet](https://github.com/Kioryu/Chrome-Ethe-Wallet) - *javascript*
+[Chrome-Ethe-Wallet](https://github.com/Kioryu/Chrome-Ethe-Wallet) - *javascript*, *Typescript*
 > * 간단한 Chrome Ethe Wallet 개발
 > * 簡単なChrome Ethe Walletを開発
 
@@ -72,13 +72,13 @@ Utils
 -------------
 1. [Go-Utils](https://github.com/Kioryu/Go-Utils) - *Go*
 
-2. 2. [Web-Utils](https://github.com/Kioryu/Web-Utils) - *Vue*, *Javascript*
+2. 2. [Web-Utils](https://github.com/Kioryu/Web-Utils) - *Vue*, *Javascript*, *Typescript*
 > * 현재 이미지관련 유틸 작업중..
 > * 現在イメージ関連のUtilsを作業中。
 
 Android
 -------------
-1. [My-History](https://github.com/Kioryu/My-History) - *JAVA*
+1. [My-History](https://github.com/Kioryu/My-History) - *JAVA*, "Android"
 > * 개인정보 및 개인 이력을 관리하는 Android App 개발을 목표로 합니다.
 > * 個人情報や履歴を管理する”Android App”開発を目標とします。
 
