@@ -1,6 +1,6 @@
 developing
 =============
-[Roblox-Studio](https://github.com/Kioryu/Roblox-Studio)
+[Roblox-Studio](https://github.com/Kioryu/Roblox-Studio) - *Lua*
 > * 로블록스 게임 개발 관련
 > * Robloxゲームの開発に関して…
 
