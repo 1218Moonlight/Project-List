@@ -1,8 +1,5 @@
 developing
 =============
-[Roblox-Studio](https://github.com/Kioryu/Roblox-Studio) - *Lua*
-> * 로블록스 게임 개발 관련
-> * Robloxゲームの開発に関して…
 
 [Chrome-Ethe-Wallet](https://github.com/Kioryu/Chrome-Ethe-Wallet) - *javascript*, *Typescript*
 > * 간단한 Chrome Ethe Wallet 개발
