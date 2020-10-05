@@ -6,7 +6,7 @@ developing
 > * 簡単なChrome Ethe Walletを開発
 
 [Korean-Collections](https://github.com/Kioryu/Korean-Collections) - *React*, *Javascript*
-> * https://kr-goods.shop/
+> * http://kioryu.github.io/Korean-Collections
 
 
 
